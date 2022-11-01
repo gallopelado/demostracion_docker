@@ -1,0 +1,20 @@
+{
+  "name": "demostracion_docker",
+  "version": "1.0.0",
+  "description": "Prototipo para la clase de Lenguaje científico II",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallopelado/demostracion_docker.git"
+  },
+  "author": "Juan José González Ramírez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallopelado/demostracion_docker/issues"
+  },
+  "homepage": "https://github.com/gallopelado/demostracion_docker#readme"
+}
